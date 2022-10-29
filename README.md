@@ -1,0 +1,1 @@
+Functional Automation project using Selenium WebDriver and JUnit. It was used the PageObject architecture to isolate the Selenium Library. I also used the DSL to centralize all interactions methods. The goal of this project is to test a site that makes transactions and manage accounts.
